@@ -1,5 +1,7 @@
 # Zabbix e Grafana
 
+Monitoramento de ativos de rede e servidores.
+
 Foi instalado utilizando o S.O Debian10 como servidor.<br>
 
 Foi utilizado a versão do zabbix 5.2 para instalação e grafana 8<br>
